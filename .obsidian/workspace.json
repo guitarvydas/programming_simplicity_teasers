@@ -102,9 +102,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7b7d9b83b5c3b037",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "manuscript/book.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3119b96a08219775",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "manuscript/book.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e974fafa8927b191",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "manuscript/book.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f27cf4b8074858ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "manuscript/book 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -170,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "manuscript/book.md",
+                "file": "manuscript/book 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "manuscript/book.md",
+                "file": "manuscript/book 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "manuscript/book.md"
+                "file": "manuscript/book 2.md"
               }
             }
           }
@@ -231,17 +279,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa96969c54c060dd",
+  "active": "f27cf4b8074858ed",
   "lastOpenFiles": [
-    "manuscript/Book 1.md",
     "manuscript/book.md",
+    "manuscript/book 2.md",
+    "manuscript/test7.md",
+    "manuscript/statecharts.md",
+    "manuscript/prolog for programmers.md",
+    "manuscript/blogs.md",
+    "manuscript/Simple Transpiler.md",
+    "manuscript/Book 1.md",
     "manuscript/test6.md",
     "manuscript/parsing idioms.md",
     "manuscript/hamburger workbench.md",
-    "manuscript/blogs.md",
-    "manuscript/statecharts.md",
-    "prolog for programmers.md",
-    "manuscript/Simple Transpiler.md",
     "preview/programmingsimplicity-teasers-preview.pdf",
     "preview/programmingsimplicity-teasers-preview.epub",
     "preview",
