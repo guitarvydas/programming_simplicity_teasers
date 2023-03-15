@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book.md",
+                "file": "manuscript/Book.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "statecharts.md",
+                "file": "manuscript/statecharts.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book.md",
+                "file": "manuscript/Book.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book.md",
+                "file": "manuscript/Book.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hamburger workbench.md",
+                "file": "manuscript/hamburger workbench.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book.md",
+                "file": "manuscript/Book.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test4.md",
+                "file": "manuscript/Book.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test4.md",
+                "file": "manuscript/Book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test4.md",
+                "file": "manuscript/Book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test4.md"
+                "file": "manuscript/Book.md"
               }
             }
           }
@@ -219,14 +219,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07b9b304710267e3",
+  "active": "98acc0643f4105f7",
   "lastOpenFiles": [
-    "Book.md",
-    "test4.md",
-    "parsing idioms.md",
-    "hamburger workbench.md",
-    "blogs.md",
-    "statecharts.md",
+    "manuscript/test4.md",
+    "manuscript/Book.md",
+    "manuscript/parsing idioms.md",
+    "manuscript/hamburger workbench.md",
+    "manuscript/blogs.md",
+    "manuscript/statecharts.md",
     "prolog for programmers.md",
     "manuscript/Simple Transpiler.md",
     "preview/programmingsimplicity-teasers-preview.pdf",
