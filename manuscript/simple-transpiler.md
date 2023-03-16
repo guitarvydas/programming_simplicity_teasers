@@ -91,3 +91,8 @@ console.log (a);
 
 $
 ```
+
+## \_terminal()
+The line `_terminal () { return this.sourceString; }` does some required housekeeping in Ohm-JS.  It specifies that when the matching engine hits bottom, the action is to simply return the matched string.
+
+These housekeeping functions are documented in the Ohm-JS documentation.
