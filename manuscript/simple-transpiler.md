@@ -2,23 +2,6 @@
 # Creating a DSL
 
 
-This would let us avoid writing JavaScript.  We could run the DSL to generate the above code, then COPY/PASTE the code into a JavaScript program.
-
-What should the syntax for the DSL be?  Here's an untested suggestion:
-```
-SimpleFAB {
-  Top [target eq v1 plus v2] = ‛
-const semantics = g.createSemantics ().addOperation ("js", {
-    Top (target, eq, v1, plus, v2) {
-	return `
-${«target».js()} = ${«v1».js()} + ${«v2».js()};
-console.log (${target.js()});
-`},
-    _terminal () { return this.sourceString; }
-});
-’
-}
-```
 
 Hints: 
 - 'FAB' is a short-form for 'fabrication'.  
