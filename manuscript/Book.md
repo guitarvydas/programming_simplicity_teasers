@@ -1,4 +1,4 @@
 test8.md
 
-simple-transpiler
+simple-transpiler.md
 
