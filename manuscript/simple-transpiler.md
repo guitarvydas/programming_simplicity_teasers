@@ -96,3 +96,16 @@ $
 The line `_terminal () { return this.sourceString; }` does some required housekeeping in Ohm-JS.  It specifies that when the matching engine hits bottom, the action is to simply return the matched string.
 
 These housekeeping functions are documented in the Ohm-JS documentation.
+## \_iter()
+Some submatches match multiple items.  The grammar operations `*`, `+`, and, `?` cause multiple matches.  The function `_iter(...)` is a housekeeping function needed to specify actions for such multiple matches.
+
+As usual, see the Ohm-JS documentation for further information on how to correctly deal with `_iter(...)`.
+
+The final three lines of code
+```
+...
+var cst = g.match ("a = b + c");
+var transpiled = semantics (cst).js ();
+console.log (transpiled);
+```
+cause the Ohm-JS engine to do the pattern matching, then apply the "js" operation to the results and to print out the return string from the "js" operation (again, this is a *very* simple example, and is written to return strings).
