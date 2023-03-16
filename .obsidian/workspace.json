@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "manuscript/book.md",
+                "file": "manuscript/test8.md",
                 "mode": "source",
                 "source": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "manuscript/book.md",
+                "file": "manuscript/test8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "manuscript/book.md",
+                "file": "manuscript/test8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "manuscript/book.md"
+                "file": "manuscript/test8.md"
               }
             }
           }
@@ -281,10 +281,10 @@
   },
   "active": "f27cf4b8074858ed",
   "lastOpenFiles": [
-    "manuscript/simple-transpiler.md",
     "manuscript/book.md",
+    "manuscript/simple-transpiler.md",
     "manuscript/book 2.md",
-    "manuscript/test7.md",
+    "manuscript/test8.md",
     "manuscript/statecharts.md",
     "manuscript/prolog for programmers.md",
     "manuscript/blogs.md",
