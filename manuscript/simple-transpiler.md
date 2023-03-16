@@ -109,3 +109,74 @@ var transpiled = semantics (cst).js ();
 console.log (transpiled);
 ```
 cause the Ohm-JS engine to do the pattern matching, then apply the "js" operation to the results and to print out the return string from the "js" operation (again, this is a *very* simple example, and is written to return strings).
+
+## Hacking the Example to Transpile to Python Instead of JavaScript
+We can use the same grammar.
+
+We simply need to supply a different set of operations to generate code that looks like Python instead of JavaScript.
+
+All we need to do is to extend the `.operation` stuff:
+
+```
+var ohm = require ('ohm-js');
+
+const g = ohm.grammar (`
+verysimple {
+  Top = letter "=" letter "+" letter
+}
+`);
+const semantics = g.createSemantics ().addOperation ("js", {
+    Top (target, eq, v1, plus, v2) {
+	return `
+${target.js()} = ${v1.js()} + ${v2.js()};
+console.log (${target.js()});
+`},
+    _terminal () { return this.sourceString; }
+});
+semantics.addOperation ("py", {
+    Top (target, eq, v1, plus, v2) {
+	return `
+${target.py()} = ${v1.py()} + ${v2.py()}
+print (${target.py()})
+`},
+    _terminal () { return this.sourceString; },
+    // not used in this example, but will be needed in bigger examples
+    _iter (...children) { return children.map(c => c.py ()); }
+});
+
+var cst = g.match ("a = b + c");
+
+var transpiled = semantics (cst).js ();
+console.log ('*** javascript ***');
+console.log (transpiled);
+
+var pytranspiled = semantics (cst).py ();
+console.log ('*** python ***');
+console.log (pytranspiled);
+
+```
+
+We pattern-match once (`g.match`) and run two different operations on the results (`.js()` and `.py()`).
+
+You should be able to run the example at the command line
+```
+$ node simple2
+node simple2
+*** javascript ***
+
+a = b + c;
+console.log (a);
+
+*** python ***
+
+a = b + c
+print (a)
+
+$ 
+```
+
+Obviously, the differences between JavaScript and Python are very small - in this *very* simple example.  Feel free to go to town hacking this example to do more interesting kinds of transpilation.
+
+## Hacking the Example to Transpile to WASM Instead of JavaScript and Python
+
+Exercise left to the reader.
