@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "manuscript/simple-transpiler.md",
+                "file": "manuscript/book.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "manuscript/simple-transpiler.md",
+                "file": "manuscript/book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "manuscript/simple-transpiler.md",
+                "file": "manuscript/book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "manuscript/simple-transpiler.md"
+                "file": "manuscript/book.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "301232a1fc13b168",
   "lastOpenFiles": [
-    "manuscript/simple-transpiler 1.md",
     "manuscript/simple-transpiler.md",
+    "manuscript/simple-transpiler 1.md",
     "manuscript/book.md",
     "manuscript/test8.md",
     "manuscript/book 2.md",
