@@ -148,10 +148,11 @@
   },
   "active": "301232a1fc13b168",
   "lastOpenFiles": [
-    "junk.md",
-    "manuscript/simple-transpiler.md",
     "manuscript/book.md",
+    "preview/programmingsimplicity-teasers-preview.pdf",
+    "manuscript/simple-transpiler.md",
     "manuscript/simple-transpiler 1.md",
+    "junk.md",
     "manuscript/test8.md",
     "manuscript/book 2.md",
     "manuscript/statecharts.md",
@@ -161,7 +162,6 @@
     "manuscript/test6.md",
     "manuscript/parsing idioms.md",
     "manuscript/hamburger workbench.md",
-    "preview/programmingsimplicity-teasers-preview.pdf",
     "preview/programmingsimplicity-teasers-preview.epub",
     "preview",
     "manuscript/resources/title page - principles.svg",
@@ -189,7 +189,6 @@
     "manuscript/resources/2023-03-12-CL0D Basics 2023-03-12 14.18.24.excalidraw.png",
     "manuscript/resources/2023-03-12-CL0D Basics 2023-03-12 14.21.52.excalidraw.md",
     "manuscript/resources/2023-03-12-CL0D Basics 2023-03-12 14.21.08.excalidraw.md",
-    "manuscript/resources/2023-03-12-CL0D Basics 2023-03-12 14.20.14.excalidraw.md",
-    "manuscript/resources/2023-03-12-CL0D Basics 2023-03-12 14.19.06.excalidraw.md"
+    "manuscript/resources/2023-03-12-CL0D Basics 2023-03-12 14.20.14.excalidraw.md"
   ]
 }
