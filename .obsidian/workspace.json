@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "301232a1fc13b168",
+            "id": "8caeb8a437f023a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "manuscript/simple-transpiler.md",
+                "file": "manuscript/book.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "manuscript/simple-transpiler.md",
+                "file": "manuscript/book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "manuscript/simple-transpiler.md",
+                "file": "manuscript/book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "manuscript/simple-transpiler.md"
+                "file": "manuscript/book.md"
               }
             }
           }
@@ -146,23 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "301232a1fc13b168",
+  "active": "8caeb8a437f023a9",
   "lastOpenFiles": [
-    "manuscript/simple-transpiler-full.md",
+    "manuscript/book.md",
+    "manuscript/book.md",
+    "manuscript/statecharts.md",
+    "manuscript/book depre.md",
+    "manuscript/book small test.md",
     "manuscript/simple-transpiler.md",
+    "manuscript/simple-transpiler-full.md",
     "manuscript/README.md",
     "manuscript/prolog for programmers.md",
     "manuscript/parsing idioms.md",
     "manuscript/hamburger workbench.md",
-    "manuscript/book 1.md",
-    "manuscript/book depre.md",
-    "manuscript/book.md",
     "manuscript/#simple-transpiler.md#",
     "manuscript/simple-transpiler0.md",
     "preview/programmingsimplicity-teasers-preview.pdf",
     "junk.md",
     "manuscript/test8.md",
-    "manuscript/statecharts.md",
     "manuscript/blogs.md",
     "manuscript/Book 1.md",
     "manuscript/test6.md",
@@ -190,7 +191,6 @@
     "Excalidraw/2023-03-12-CL0D Basics 2023-03-12 14.20.14.excalidraw.png.md",
     "Excalidraw",
     "manuscript/resources/2023-03-12-CL0D Basics 2023-03-12 14.19.06.excalidraw.png",
-    "manuscript/resources/2023-03-12-CL0D Basics 2023-03-12 14.18.24.excalidraw.png",
-    "manuscript/resources/2023-03-12-CL0D Basics 2023-03-12 14.21.52.excalidraw.md"
+    "manuscript/resources/2023-03-12-CL0D Basics 2023-03-12 14.18.24.excalidraw.png"
   ]
 }
