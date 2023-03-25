@@ -1,6 +1,6 @@
 # Simple Example of a Transpiler Using Ohm-JS
 
-ccc
+eee
 
 Hints: 
 - 'FAB' is a short-form for 'fabrication'.  

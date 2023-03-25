@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "manuscript/book.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "564461fdf7c13f5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "manuscript/book.md",
+                "file": "manuscript/simple-transpiler.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "manuscript/book.md",
+                "file": "manuscript/simple-transpiler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "manuscript/book.md",
+                "file": "manuscript/simple-transpiler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "manuscript/book.md"
+                "file": "manuscript/simple-transpiler.md"
               }
             }
           }
@@ -159,25 +146,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "564461fdf7c13f5d",
+  "active": "301232a1fc13b168",
   "lastOpenFiles": [
+    "manuscript/README.md",
+    "manuscript/prolog for programmers.md",
+    "manuscript/parsing idioms.md",
+    "manuscript/hamburger workbench.md",
+    "manuscript/book 1.md",
+    "manuscript/book depre.md",
+    "manuscript/book.md",
     "manuscript/#simple-transpiler.md#",
     "manuscript/simple-transpiler-full.md",
-    "manuscript/book depre.md",
-    "manuscript/book 1.md",
-    "manuscript/book.md",
     "manuscript/simple-transpiler.md",
     "manuscript/simple-transpiler0.md",
     "preview/programmingsimplicity-teasers-preview.pdf",
     "junk.md",
     "manuscript/test8.md",
     "manuscript/statecharts.md",
-    "manuscript/prolog for programmers.md",
     "manuscript/blogs.md",
     "manuscript/Book 1.md",
     "manuscript/test6.md",
-    "manuscript/parsing idioms.md",
-    "manuscript/hamburger workbench.md",
     "preview/programmingsimplicity-teasers-preview.epub",
     "preview",
     "manuscript/resources/title page - principles.svg",
